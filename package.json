@@ -1,0 +1,21 @@
+{
+  "name": "yellowdig-backend",
+  "dependencies": {
+    "connect": "^3.6.6",
+    "request": "^2.87.0",
+    "serve-static": "^1.13.2",
+    "w3c-xmlhttprequest": "^2.1.2",
+    "xhr": "^2.5.0",
+    "xmlhttprequest": "^1.8.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "version": "1.0.0",
+  "main": "fs.queue.js",
+  "devDependencies": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
